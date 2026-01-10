@@ -48,10 +48,7 @@ Aqui estão as ferramentas e tecnologias que utilizo no meu dia a dia:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/GabrielMazzetti">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMazzetti&show_icons=true&theme=dracula&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMazzetti&layout=compact&theme=dracula"/>
-  </a>
+  <img src="https://github.com/GabrielMazzetti/GabrielMazzetti/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 ---
