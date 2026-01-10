@@ -1,0 +1,24 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Roda todo dia à meia noite
+  workflow_dispatch: # Permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-cards
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v2
+      
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          # gerar apenas o tema Dracula 
+          THEME: dracula
