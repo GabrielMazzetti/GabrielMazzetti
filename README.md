@@ -45,12 +45,15 @@ Aqui estão as ferramentas e tecnologias que utilizo no meu dia a dia:
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github.com/GabrielMazzetti/GabrielMazzetti/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/GabrielMazzetti/GabrielMazzetti/master/profile-summary-card-output/dracula/0-profile-details.svg" width="100%">
+  <br>
+  
+  <img src="https://raw.githubusercontent.com/GabrielMazzetti/GabrielMazzetti/master/profile-summary-card-output/dracula/2-most-commit-language.svg" height="170" alt="Linguagens">
+  <img src="https://raw.githubusercontent.com/GabrielMazzetti/GabrielMazzetti/master/profile-summary-card-output/dracula/3-stats.svg" height="170" alt="Stats">
 </div>
-
 ---
 
 ### 📫 Contato
