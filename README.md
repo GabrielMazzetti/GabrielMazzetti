@@ -14,9 +14,9 @@
 
 Atualmente estou no 6º período de **Estatística** na Universidade Federal de Juiz de Fora (UFJF). Tenho um forte interesse em transformar dados brutos em soluções inteligentes, unindo a rigoorsidade da estatística com a agilidade da programação.
 
-* 🔭 **Atualmente trabalhando em:** Web Scraping e Análise de Dados para Indústria 4.0 (Iniciação Científica) & Desenvolvimento Web no PET Saúde/SUS.
+* 🔭 **Atualmente trabalhando em:** Web Scraping e Análise de Dados para Indústria 4.0 (Iniciação Científica) & Embrapa Gado de Leite (Iniciação Científica).
 * 🌱 **Atualmente aprendendo:** Aprofundando em Engenharia de Dados e Modelagem Estatística Avançada.
-* 🤖 **Experiência anterior:** Equipe de Robótica Rinobot (C++ e Lógica de Programação).
+* 🤖 **Experiência anterior:** Equipe de Robótica Rinobot (C++ e Lógica de Programação) & Desenvolvimento Web no PET Saúde/SUS.
 * 💬 **Me pergunte sobre:** Python, R, Web Scraping e Análise Estatística.
 
 ---
