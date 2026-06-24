@@ -54,10 +54,11 @@ Aqui estão as ferramentas e tecnologias que utilizo no meu dia a dia:
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielMazzetti&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMazzetti&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,javascript,typescript&custom_title=Linguagens%20Mais%20Utilizadas" height="170" alt="Linguagens">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielMazzetti&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Stats">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielMazzetti&bg_color=87CEEB&color=051A2E&line=051A2E&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade">
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMazzetti&theme=tokyonight&hide_border=true&hide=html,css,javascript,typescript&custom_title=Linguagens%20Mais%20Utilizadas&card_width=600" height="200" alt="Linguagens Mais Utilizadas">
 </div>
 
 ---
