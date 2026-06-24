@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=6000&pause=2000&color=7AA2F7&center=true&vCenter=true&width=850&lines=Terei+que+correr+o+sagrado+risco+do+acaso.+E+substituirei+o+destino+pela+probabilidade." alt="Frase Clarice Lispector" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=6000&pause=2000&color=FEB774&center=true&vCenter=true&width=850&lines=Terei+que+correr+o+sagrado+risco+do+acaso.+E+substituirei+o+destino+pela+probabilidade." alt="Frase Clarice Lispector" />
   <br>
-  <em>— Clarice Lispector</em>
+  <em> Clarice Lispector</em>
 </p>
 
 ---
@@ -56,7 +56,7 @@ Aqui estão as ferramentas e tecnologias que utilizo no meu dia a dia:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielMazzetti&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMazzetti&layout=compact&theme=tokyonight&hide_border=true&custom_title=Linguagens%20Mais%20Utilizadas" height="170" alt="Linguagens">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMazzetti&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,javascript,typescript&custom_title=Linguagens%20Mais%20Utilizadas" height="170" alt="Linguagens">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielMazzetti&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Stats">
 </div>
 
