@@ -1,18 +1,24 @@
-<h1 align="center">Olá, eu sou o Gabriel Mazzetti!</h1>
+<h1 align="center">Gabriel Mazzetti</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GabrielMazzetti&label=Profile%20Views&color=5E81AC&style=flat" alt="GabrielMazzetti" />
+  <img src="https://komarev.com/ghpvc/?username=GabrielMazzetti&label=Visualiza%C3%A7%C3%B5es&color=7aa2f7&style=flat" alt="GabrielMazzetti" />
 </p>
 
 <p align="center">
-  <em>Graduando em Estatística na UFJF | Inferência Estatística • Análise de Dados • Modelagem</em>
+  <em>Estatística - UFJF | Análise de Dados • Modelagem • Inferência</em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=6000&pause=2000&color=7AA2F7&center=true&vCenter=true&width=850&lines=Terei+que+correr+o+sagrado+risco+do+acaso.+E+substituirei+o+destino+pela+probabilidade." alt="Frase Clarice Lispector" />
+  <br>
+  <em>— Clarice Lispector</em>
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-Atualmente estou no 7º período de **Estatística** na Universidade Federal de Juiz de Fora (UFJF). Tenho um forte interesse em transformar dados brutos em soluções inteligentes, unindo a rigoorsidade da estatística com a agilidade da programação.
+Atualmente estou no 7º período de **Estatística** na Universidade Federal de Juiz de Fora (UFJF). Tenho um forte interesse em transformar dados brutos em soluções inteligentes, unindo a rigorosidade da estatística com a agilidade da programação.
 
 * 🔭 **Atualmente trabalhando em:** Web Scraping e Análise de Dados para Indústria 4.0 (Iniciação Científica) & Embrapa Gado de Leite (Iniciação Científica).
 * 🌱 **Atualmente aprendendo:** Aprofundando em Engenharia de Dados e Modelagem Estatística Avançada.
@@ -48,8 +54,10 @@ Aqui estão as ferramentas e tecnologias que utilizo no meu dia a dia:
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielMazzetti&show_icons=true&theme=nord&hide_border=true" height="170" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMazzetti&layout=compact&theme=nord&hide_border=true" height="170" alt="Linguagens Mais Utilizadas">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielMazzetti&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMazzetti&layout=compact&theme=tokyonight&hide_border=true&custom_title=Linguagens%20Mais%20Utilizadas" height="170" alt="Linguagens">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielMazzetti&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Stats">
 </div>
 
 ---
@@ -60,7 +68,7 @@ Aqui estão as ferramentas e tecnologias que utilizo no meu dia a dia:
   <a href="https://www.linkedin.com/in/gabriel-mazzetti-066a4125b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:gabrielaffonso84@gmail.com">
+  <a href="mailto:SEU_EMAIL_AQUI@GMAIL.COM">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
