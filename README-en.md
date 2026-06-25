@@ -81,7 +81,7 @@ Here are the tools and technologies I use on a daily basis:
   <a href="https://www.linkedin.com/in/gabriel-mazzetti-066a4125b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI@GMAIL.COM">
+  <a href="mailto:gabrielaffonso84@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
