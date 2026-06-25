@@ -1,3 +1,9 @@
+<div align="right">
+  <a href="README-en.md">
+    <img alt="Read in English" src="https://img.shields.io/badge/Read_in_English-051A2E?style=for-the-badge&logo=google-translate&logoColor=white">
+  </a>
+</div>
+
 <h1 align="center">Gabriel Mazzetti</h1>
 
 <p align="center">
