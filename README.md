@@ -64,7 +64,7 @@ Aqui estão as ferramentas e tecnologias que utilizo no meu dia a dia:
   
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMazzetti&theme=tokyonight&hide_border=true&hide=html,css,javascript,typescript&custom_title=Linguagens%20Mais%20Utilizadas&card_width=900" height="300" alt="Linguagens Mais Utilizadas">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GabrielMazzetti&theme=tokyonight&hide_border=true&hide=html,css,javascript,typescript&custom_title=Linguagens%20Mais%20Utilizadas&card_width=900" height="300" alt="Linguagens Mais Utilizadas">
 </div>
 
 ---
