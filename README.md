@@ -24,7 +24,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Atualmente estou no 7º período de **Estatística** na Universidade Federal de Juiz de Fora (UFJF). Tenho um forte interesse em transformar dados brutos em soluções inteligentes, unindo a rigorosidade da estatística com a agilidade da programação.
+Atualmente estou no 8º período de **Estatística** na Universidade Federal de Juiz de Fora (UFJF). Tenho um forte interesse em transformar dados brutos em soluções inteligentes, unindo a rigorosidade da estatística com a agilidade da programação.
 
 * 🔭 **Atualmente trabalhando em:** Web Scraping e Análise de Dados para Indústria 4.0 (Iniciação Científica) & Embrapa Gado de Leite (Iniciação Científica).
 * 🌱 **Atualmente aprendendo:** Aprofundando em Engenharia de Dados e Modelagem Estatística Avançada.
