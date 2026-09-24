@@ -14,8 +14,7 @@
 
 ---
 
-<img align="left" width="76" height="76" src="SEU_CAMINHO_DE_FOTO_AQUI">
-<!-- mantenha aqui o mesmo caminho/URL que você já usa para a sua foto de perfil -->
+<img align="left" width="76" height="76" src="https://github.com/GabrielMazzetti.png" style="border-radius: 50%;">
 
 Estudante de Estatística na Universidade Federal de Juiz de Fora (UFJF), com interesse em análise de dados, inferência estatística e modelagem probabilística.
 
@@ -30,12 +29,15 @@ Fascinado pela ideia de extrair estrutura a partir do ruído — e pela matemát
 - Desenvolvendo visualizações para comunicar conceitos estatísticos
 - Aprofundando em C++ para computação estatística de alto desempenho
 
-![Stack](./assets/skills-cards.svg)
+<br>
+
+![Stack](https://skillicons.dev/icons?i=r,py,cpp,github,latex&theme=light)
 
 ---
 
 ![](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=13&duration=1&pause=100000&repeat=false&center=false&color=3B6D11&background=00000000&lines=DISTRIBUIÇÃO+NORMAL)
 
+<!-- ATENÇÃO: Para a imagem abaixo funcionar, você PRECISA criar uma pasta chamada 'assets' no seu repositório e colocar o arquivo 'normal-distribution.svg' dentro dela. -->
 ![Distribuição Normal](./assets/normal-distribution.svg)
 
 ---
