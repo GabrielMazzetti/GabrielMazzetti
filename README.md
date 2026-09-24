@@ -14,7 +14,7 @@
 
 ---
 
-<img align="left" width="76" height="76" src="./assets/ufjf_logo.png">
+<img align="left" width="76" height="76" src="./assets/ufjf_logo.jpg">
 
 Estudante de Estatística na Universidade Federal de Juiz de Fora (UFJF), com interesse em análise de dados, inferência estatística e modelagem probabilística.
 
