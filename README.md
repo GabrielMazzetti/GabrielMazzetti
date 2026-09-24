@@ -19,7 +19,6 @@
 
 Estudante de Estatística na Universidade Federal de Juiz de Fora (UFJF), com interesse em análise de dados, inferência estatística e modelagem probabilística.
 
-Fascinado pela ideia de extrair estrutura a partir do ruído — e pela matemática que torna isso possível.
 
 <br clear="left"/>
 
