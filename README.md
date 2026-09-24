@@ -6,7 +6,7 @@
 
 ![](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=1&pause=100000&repeat=false&center=true&vCenter=true&width=520&height=24&color=3B6D11&background=00000000&lines=Estatística+-+UFJF+%7C+Análise+de+Dados+•+Modelagem+•+Inferência)
 
-![](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=6000&pause=2000&color=FEB774&center=true&vCenter=true&width=600&lines=Terei+que+correr+o+sagrado+risco+do+acaso.+E+substituirei+o+destino+pela+probabilidade.)
+![](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=6000&pause=2000&color=FEB774&center=true&vCenter=true&width=850&lines=Terei+que+correr+o+sagrado+risco+do+acaso.+E+substituirei+o+destino+pela+probabilidade.)
 
 *Clarice Lispector*
 
@@ -14,7 +14,7 @@
 
 ---
 
-<img align="left" width="76" height="76" src="./assets/ufjf_logo.jpg">
+<img align="left" width="76" height="76" src="./assets/ufjf-logo.jpg">
 
 Estudante de Estatística na Universidade Federal de Juiz de Fora (UFJF), com interesse em análise de dados, inferência estatística e modelagem probabilística.
 
