@@ -14,19 +14,18 @@
 
 ---
 
-<img align="left" width="76" height="76" src="D:/perfil_github/GabrielMazzetti/GabrielMazzetti-profile-assets/assets/galton-board.gif">
+<img align="left" width="76" height="76" src="./assets/ufjf-logo.png">
 
 Estudante de Estatística na Universidade Federal de Juiz de Fora (UFJF), com interesse em análise de dados, inferência estatística e modelagem probabilística.
 
-Tenho interesse especial em Estatística de Alta Dimensão, particularmente em métodos de esparsidade e seleção de variáveis, e em Estatística Computacional. Gosto de explorar a relação entre fundamentos estatísticos, métodos matemáticos e implementação computacional, buscando compreender não apenas como aplicar um método, mas também os princípios que estão por trás dele.  
-
+Tenho interesse especial em Estatística de Alta Dimensão, particularmente em métodos de esparsidade e seleção de variáveis, e em Estatística Computacional. Gosto de explorar a relação entre fundamentos estatísticos, métodos matemáticos e implementação computacional, buscando compreender não apenas como aplicar um método, mas também os princípios que estão por trás dele.
 
 <br clear="left"/>
 
 ![](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=13&duration=1&pause=100000&repeat=false&center=false&color=3B6D11&background=00000000&lines=O+QUE+ESTOU+FAZENDO)
 
 **Projetos Atuais:**
-- Embrapa Gir Leiteiro: Atuando na limpeza de dados, formatação de tabelas complexas e mapeamento de fazendas colaborativas usando Quarto, além de contribuir para a produção do livro digital *"Sumário Brasileiro de Touros"* das raças Gir e Girlonado. Também presente na produção dos aplicativos *Right Sire*, programado utilizando o *R Shiny*, das mesmas raças dos Sumários.
+- Embrapa Gir Leiteiro: Atuando na limpeza de dados, formatação de tabelas complexas e mapeamento de fazendas colaborativas usando Quarto, além de contribuir para a produção do livro digital *"Sumário Brasileiro de Touros"* das raças Gir e Girolando. Também presente na produção dos aplicativos *Right Sire*, programados utilizando *R Shiny*, das mesmas raças dos Sumários.
 - Estatística de Alta Dimensão: Estudando técnicas avançadas de regularização e esparsidade em modelos estatísticos, com foco em regressão Lasso (Least Absolute Shrinkage and Selection Operator).
 
 **Experiências Anteriores:**
@@ -42,9 +41,8 @@ Tenho interesse especial em Estatística de Alta Dimensão, particularmente em m
 
 ---
 
-
 <div align="center">
-  <img src="D:/perfil_github/GabrielMazzetti/GabrielMazzetti-profile-assets/assets/galton-board.gif" alt="Máquina de Galton - Distribuição Normal" width="450"/>
+  <img src="./assets/galton-board.gif" alt="Máquina de Galton - Distribuição Normal" width="450"/>
 </div>
 
 ---
