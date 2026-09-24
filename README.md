@@ -54,7 +54,7 @@ Fascinado pela ideia de extrair estrutura a partir do ruído — e pela matemát
 <table>
 <tr><td><code>GitHub</code></td><td><a href="https://github.com/GabrielMazzetti">github.com/GabrielMazzetti</a></td></tr>
 <tr><td><code>LinkedIn</code></td><td><a href="https://linkedin.com/in/gabrielmazzetti">linkedin.com/in/gabrielmazzetti</a></td></tr>
-<tr><td><code>E-mail</code></td><td>gabriel.mazzetti@estudante.ufjf.br</td></tr>
+<tr><td><code>E-mail</code></td><td>gabrielaffonso84@gmail.com</td></tr>
 </table>
 
 ---
