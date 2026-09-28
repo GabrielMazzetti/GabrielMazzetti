@@ -51,7 +51,7 @@ Tenho interesse especial em Estatística de Alta Dimensão, particularmente em m
 
 <table>
 <tr><td><code>GitHub</code></td><td><a href="https://github.com/GabrielMazzetti">github.com/GabrielMazzetti</a></td></tr>
-<tr><td><code>LinkedIn</code></td><td><a href="https://linkedin.com/in/gabrielmazzetti">linkedin.com/in/gabrielmazzetti</a></td></tr>
+<tr><td><code>LinkedIn</code></td><td><a href="[https://linkedin.com/in/gabrielmazzetti](https://www.linkedin.com/in/gabriel-mazzetti-066a4125b/)">linkedin.com/in/gabrielmazzetti</a></td></tr>
 <tr><td><code>E-mail</code></td><td>gabrielaffonso84@gmail.com</td></tr>
 </table>
 
