@@ -2,8 +2,6 @@
 
 # Gabriel Mazzetti
 
-![Visualizações](https://komarev.com/ghpvc/?username=GabrielMazzetti&label=Visualizações&color=173404&style=flat)
-
 ![](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=1&pause=100000&repeat=false&center=true&vCenter=true&width=520&height=24&color=3B6D11&background=00000000&lines=Estatística+-+UFJF+%7C+Análise+de+Dados+•+Modelagem+•+Inferência)
 
 ![](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=6000&pause=2000&color=FEB774&center=true&vCenter=true&width=850&lines=Terei+que+correr+o+sagrado+risco+do+acaso.+E+substituirei+o+destino+pela+probabilidade.)
@@ -47,12 +45,16 @@ Tenho interesse especial em Estatística de Alta Dimensão, particularmente em m
 
 ---
 
-![](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=13&duration=1&pause=100000&repeat=false&center=false&color=3B6D11&background=00000000&lines=CONTATO)
+<div align="center">
+
+![](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=13&duration=1&pause=100000&repeat=false&center=true&color=3B6D11&background=00000000&lines=CONTATO)
 
 <table>
 <tr><td><code>GitHub</code></td><td><a href="https://github.com/GabrielMazzetti">github.com/GabrielMazzetti</a></td></tr>
 <tr><td><code>LinkedIn</code></td><td><a href="https://linkedin.com/in/gabrielmazzetti">linkedin.com/in/gabrielmazzetti</a></td></tr>
 <tr><td><code>E-mail</code></td><td>gabrielaffonso84@gmail.com</td></tr>
 </table>
+
+</div>
 
 ---
